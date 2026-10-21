@@ -1,3 +1,7 @@
+# Estudiantes:
+# José Arístides Zelaya Parada, U20250400
+# Evelin Carolina Morales Flores, U20250919
+
 """
 Caso empresarial: Sistema de gestión de pedidos de una distribuidora
 
