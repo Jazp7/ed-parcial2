@@ -5,6 +5,7 @@
 
 - `main.py`: implementación de los literales A, B, C y D.
 - `README.md`: documentación del proyecto.
+- `Parcial 2.pdf`: documento con las preguntas de la parte teórica del parcial.
 
 ## Cómo correr el proyecto
 
